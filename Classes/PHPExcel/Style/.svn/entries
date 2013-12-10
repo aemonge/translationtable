@@ -1,0 +1,91 @@
+10
+
+dir
+540016
+http://plugins.svn.wordpress.org/translation-table/trunk/Classes/PHPExcel/Style
+http://plugins.svn.wordpress.org
+
+
+
+2012-05-04T17:27:28.819384Z
+540016
+aemonge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8457f37-d9ea-0310-8a92-e5e31aec5664
+
+Border.php
+file
+0
+
+
+add
+
+Alignment.php
+file
+0
+
+
+add
+
+Color.php
+file
+0
+
+
+add
+
+Borders.php
+file
+0
+
+
+add
+
+NumberFormat.php
+file
+0
+
+
+add
+
+Conditional.php
+file
+0
+
+
+add
+
+Protection.php
+file
+0
+
+
+add
+
+Fill.php
+file
+0
+
+
+add
+
+Font.php
+file
+0
+
+
+add
+

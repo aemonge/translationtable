@@ -1,0 +1,98 @@
+10
+
+dir
+540016
+http://plugins.svn.wordpress.org/translation-table/trunk/Classes/PHPExcel/CachedObjectStorage
+http://plugins.svn.wordpress.org
+
+
+
+2012-05-04T17:27:28.819384Z
+540016
+aemonge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8457f37-d9ea-0310-8a92-e5e31aec5664
+
+ICache.php
+file
+0
+
+
+add
+
+DiscISAM.php
+file
+0
+
+
+add
+
+PHPTemp.php
+file
+0
+
+
+add
+
+CacheBase.php
+file
+0
+
+
+add
+
+Wincache.php
+file
+0
+
+
+add
+
+MemoryGZip.php
+file
+0
+
+
+add
+
+Memcache.php
+file
+0
+
+
+add
+
+APC.php
+file
+0
+
+
+add
+
+MemorySerialized.php
+file
+0
+
+
+add
+
+Memory.php
+file
+0
+
+
+add
+

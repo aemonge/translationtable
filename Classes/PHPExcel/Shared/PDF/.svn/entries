@@ -1,0 +1,145 @@
+10
+
+dir
+540016
+http://plugins.svn.wordpress.org/translation-table/trunk/Classes/PHPExcel/Shared/PDF
+http://plugins.svn.wordpress.org
+
+
+
+2012-05-04T17:27:28.819384Z
+540016
+aemonge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8457f37-d9ea-0310-8a92-e5e31aec5664
+
+tcpdf.php
+file
+0
+
+
+add
+
+tcpdf.crt
+file
+0
+
+
+add
+
+fonts
+dir
+
+pdf417.php
+file
+0
+
+
+add
+
+2dbarcodes.php
+file
+0
+
+
+add
+
+tcpdf.fdf
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+LICENSE.TXT
+file
+0
+
+
+add
+
+tcpdf.p12
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrcode.php
+file
+0
+
+
+add
+
+cache
+dir
+
+config
+dir
+
+unicode_data.php
+file
+0
+
+
+add
+
+images
+dir
+
+CHANGELOG.TXT
+file
+0
+
+
+add
+
+barcodes.php
+file
+0
+
+
+add
+
+README.TXT
+file
+0
+
+
+add
+
+htmlcolors.php
+file
+0
+
+
+add
+

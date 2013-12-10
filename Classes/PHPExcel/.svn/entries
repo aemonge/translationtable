@@ -1,0 +1,177 @@
+10
+
+dir
+540016
+http://plugins.svn.wordpress.org/translation-table/trunk/Classes/PHPExcel
+http://plugins.svn.wordpress.org
+
+
+
+2012-05-04T17:27:28.819384Z
+540016
+aemonge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8457f37-d9ea-0310-8a92-e5e31aec5664
+
+Cell
+dir
+
+RichText.php
+file
+0
+
+
+add
+
+HashTable.php
+file
+0
+
+
+add
+
+DocumentProperties.php
+file
+0
+
+
+add
+
+CachedObjectStorage
+dir
+
+ReferenceHelper.php
+file
+0
+
+
+add
+
+Calculation.php
+file
+0
+
+
+add
+
+IOFactory.php
+file
+0
+
+
+add
+
+Autoloader.php
+file
+0
+
+
+add
+
+Settings.php
+file
+0
+
+
+add
+
+Style.php
+file
+0
+
+
+add
+
+NamedRange.php
+file
+0
+
+
+add
+
+Comment.php
+file
+0
+
+
+add
+
+RichText
+dir
+
+DocumentSecurity.php
+file
+0
+
+
+add
+
+Calculation
+dir
+
+locale
+dir
+
+Style
+dir
+
+CachedObjectStorageFactory.php
+file
+0
+
+
+add
+
+Worksheet.php
+file
+0
+
+
+add
+
+Reader
+dir
+
+IComparable.php
+file
+0
+
+
+add
+
+Cell.php
+file
+0
+
+
+add
+
+Shared
+dir
+
+Worksheet
+dir
+
+WorksheetIterator.php
+file
+0
+
+
+add
+
+Writer
+dir
+

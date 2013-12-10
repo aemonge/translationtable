@@ -1,0 +1,91 @@
+10
+
+dir
+540016
+http://plugins.svn.wordpress.org/translation-table/trunk/Classes/PHPExcel/Shared/JAMA/examples
+http://plugins.svn.wordpress.org
+
+
+
+2012-05-04T17:27:28.819384Z
+540016
+aemonge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8457f37-d9ea-0310-8a92-e5e31aec5664
+
+LevenbergMarquardt.php
+file
+0
+
+
+add
+
+benchmark.php
+file
+0
+
+
+add
+
+LagrangeInterpolation2.php
+file
+0
+
+
+add
+
+MagicSquareExample.php
+file
+0
+
+
+add
+
+tile.php
+file
+0
+
+
+add
+
+Stats.php
+file
+0
+
+
+add
+
+LMQuadTest.php
+file
+0
+
+
+add
+
+polyfit.php
+file
+0
+
+
+add
+
+LagrangeInterpolation.php
+file
+0
+
+
+add
+

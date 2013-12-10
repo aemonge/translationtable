@@ -1,0 +1,77 @@
+10
+
+dir
+540016
+http://plugins.svn.wordpress.org/translation-table/trunk/Classes/PHPExcel/Shared/trend
+http://plugins.svn.wordpress.org
+
+
+
+2012-05-04T17:27:28.819384Z
+540016
+aemonge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8457f37-d9ea-0310-8a92-e5e31aec5664
+
+logarithmicBestFitClass.php
+file
+0
+
+
+add
+
+polynomialBestFitClass.php
+file
+0
+
+
+add
+
+exponentialBestFitClass.php
+file
+0
+
+
+add
+
+linearBestFitClass.php
+file
+0
+
+
+add
+
+trendClass.php
+file
+0
+
+
+add
+
+powerBestFitClass.php
+file
+0
+
+
+add
+
+bestFitClass.php
+file
+0
+
+
+add
+

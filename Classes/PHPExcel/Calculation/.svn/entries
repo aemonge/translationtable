@@ -1,0 +1,140 @@
+10
+
+dir
+540016
+http://plugins.svn.wordpress.org/translation-table/trunk/Classes/PHPExcel/Calculation
+http://plugins.svn.wordpress.org
+
+
+
+2012-05-04T17:27:28.819384Z
+540016
+aemonge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8457f37-d9ea-0310-8a92-e5e31aec5664
+
+Engineering.php
+file
+0
+
+
+add
+
+ExceptionHandler.php
+file
+0
+
+
+add
+
+DateTime.php
+file
+0
+
+
+add
+
+Exception.php
+file
+0
+
+
+add
+
+Database.php
+file
+0
+
+
+add
+
+LookupRef.php
+file
+0
+
+
+add
+
+FormulaToken.php
+file
+0
+
+
+add
+
+Functions.php
+file
+0
+
+
+add
+
+functionlist.txt
+file
+0
+
+
+add
+
+Logical.php
+file
+0
+
+
+add
+
+TextData.php
+file
+0
+
+
+add
+
+MathTrig.php
+file
+0
+
+
+add
+
+FormulaParser.php
+file
+0
+
+
+add
+
+Statistical.php
+file
+0
+
+
+add
+
+Financial.php
+file
+0
+
+
+add
+
+Function.php
+file
+0
+
+
+add
+

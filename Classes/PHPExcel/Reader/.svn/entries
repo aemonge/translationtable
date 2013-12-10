@@ -1,0 +1,104 @@
+10
+
+dir
+540016
+http://plugins.svn.wordpress.org/translation-table/trunk/Classes/PHPExcel/Reader
+http://plugins.svn.wordpress.org
+
+
+
+2012-05-04T17:27:28.819384Z
+540016
+aemonge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8457f37-d9ea-0310-8a92-e5e31aec5664
+
+Excel2007.php
+file
+0
+
+
+add
+
+Gnumeric.php
+file
+0
+
+
+add
+
+IReadFilter.php
+file
+0
+
+
+add
+
+CSV.php
+file
+0
+
+
+add
+
+IReader.php
+file
+0
+
+
+add
+
+Excel5
+dir
+
+OOCalc.php
+file
+0
+
+
+add
+
+SYLK.php
+file
+0
+
+
+add
+
+Excel2007
+dir
+
+Excel5.php
+file
+0
+
+
+add
+
+Excel2003XML.php
+file
+0
+
+
+add
+
+DefaultReadFilter.php
+file
+0
+
+
+add
+

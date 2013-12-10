@@ -1,0 +1,89 @@
+10
+
+dir
+540016
+http://plugins.svn.wordpress.org/translation-table/trunk/Classes/PHPExcel/Shared/JAMA
+http://plugins.svn.wordpress.org
+
+
+
+2012-05-04T17:27:28.819384Z
+540016
+aemonge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8457f37-d9ea-0310-8a92-e5e31aec5664
+
+utils
+dir
+
+tests
+dir
+
+LUDecomposition.php
+file
+0
+
+
+add
+
+CholeskyDecomposition.php
+file
+0
+
+
+add
+
+SingularValueDecomposition.php
+file
+0
+
+
+add
+
+QRDecomposition.php
+file
+0
+
+
+add
+
+CHANGELOG.TXT
+file
+0
+
+
+add
+
+EigenvalueDecomposition.php
+file
+0
+
+
+add
+
+docs
+dir
+
+Matrix.php
+file
+0
+
+
+add
+
+examples
+dir
+
